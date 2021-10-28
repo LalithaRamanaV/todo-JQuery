@@ -1,0 +1,18 @@
+
+*{
+  margin:0;
+}
+
+h1 {
+    color: #1abc9c;
+    align-items: center;
+    text-align:center;
+}
+.rem {
+    background-color: white;
+    color: red;
+    border: none;
+    cursor: pointer;
+    align-items: center;
+    text-align: center;
+}
